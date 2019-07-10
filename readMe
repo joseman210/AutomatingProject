@@ -1,0 +1,3 @@
+This program was designed to extract email addresses and phone numbers from a web page or document. 
+All you have to do is copy all the text on the page or document you'd like to extract the data from using Ctrl + A and then copy it 
+using Ctrl + C, finally you run the program and it will return the emails and addresses from the doc or web page. 
